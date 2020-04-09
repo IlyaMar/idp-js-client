@@ -1,0 +1,8 @@
+{
+  "realm": "sr1",
+  "auth-server-url": "https://hkhzi.brndd013794a-0c4de9.aqa.int.zone/auth/",
+  "ssl-required": "none",
+  "resource": "sample-client",
+  "public-client": true,
+  "confidential-port": 0
+}
