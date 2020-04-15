@@ -1,6 +1,6 @@
 {
-  "realm": "sr1",
-  "auth-server-url": "https://hkhzi.brndd013794a-0c4de9.aqa.int.zone/auth/",
+  "realm": "sr3",
+  "auth-server-url": "https://plxLS.brnd71338626-532b45.aqa.int.zone/auth/",
   "ssl-required": "none",
   "resource": "sample-client",
   "public-client": true,
